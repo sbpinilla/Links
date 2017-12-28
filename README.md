@@ -4,7 +4,21 @@
 (1) Genrar iconos y recursos para aplicaciones android <br>
 https://romannurik.github.io/AndroidAssetStudio/index.html <br>
 (2) Ejemplo y librerias de android <br>
-https://android-arsenal.com
+https://android-arsenal.com <br>
+(3) Libreria MaterialRatingBar (Calificación por estrellas) <br>
+https://github.com/DreaminginCodeZH/MaterialRatingBar <br>
+(4) Libreria que redondea un img <br>
+https://github.com/hdodenhof/CircleImageView <br>
+(5) Libreria Material Search Bar (Barra de busqueda) <br>
+https://github.com/mancj/MaterialSearchBar <br>
+(6) Libreria de dialogos estilo material desing <br>
+https://github.com/afollestad/material-dialogs <br>
+(7) Libreria Material chip <br>
+https://github.com/pchmn/MaterialChipsInput <br>
+(8) Libreria que permite tomar una foto o seleccionarla de la galeria <br>
+https://github.com/ParkSangGwon/TedPicker <br>
+(9) Libreria de DateTimePicker Material Desing <br>
+https://github.com/wdullaer/MaterialDateTimePicker
 
 ### **.Net**
 (1) Probar fácilmente aplicaciones web desde tabletas y teléfonos externos en su red.<br>
