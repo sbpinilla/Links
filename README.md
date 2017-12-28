@@ -35,3 +35,10 @@ https://startbootstrap.com
 ### **GitHub**
 (1) Sintaxis del README <br>
 https://guides.github.com/features/mastering-markdown/
+
+###  **VSCode Plugin**
+(1) Live Server (Permite previsualizar cambios sin recargar la pagina)<br>
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer<br>
+(2) Live Sass Compiler (Compilar archivos sass automaticamente)<br>
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
+
