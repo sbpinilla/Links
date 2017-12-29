@@ -18,7 +18,9 @@ https://github.com/pchmn/MaterialChipsInput <br>
 (8) Libreria que permite tomar una foto o seleccionarla de la galeria <br>
 https://github.com/ParkSangGwon/TedPicker <br>
 (9) Libreria de DateTimePicker Material Desing <br>
-https://github.com/wdullaer/MaterialDateTimePicker
+https://github.com/wdullaer/MaterialDateTimePicker<br>
+(10) Libreria de  Transiciones y animaciones - Material Desing <br>
+https://github.com/lgvalle/Material-Animations
 
 ### **.Net**
 (1) Probar fácilmente aplicaciones web desde tabletas y teléfonos externos en su red.<br>
