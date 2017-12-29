@@ -42,3 +42,7 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer<br>
 (2) Live Sass Compiler (Compilar archivos sass automaticamente)<br>
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
 
+### **jQuery**
+(1) Animaciones web<br>
+https://mdbootstrap.com/css/animations/
+
