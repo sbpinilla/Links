@@ -46,7 +46,26 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass<br>
 (3) SASS format - formatear codigo sass<br>
 https://marketplace.visualstudio.com/items?itemName=sasa.vscode-sass-format<br>
 (4) SCSS IntelliSense - permite previsualizar la salida del css<br>
-https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss#overview
+https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss#overview <br>
+(5) Beautify -  Dar formatear al codigo  <br>
+https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify <br>
+(6) linting de JavScript <br>
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint <br>
+(7) Snippets de HTML <br>
+https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets <br>
+(8) Autocompletar clases CSS en HTML <br>
+https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion <br>
+(9) Dar formmato al codigo <br>
+https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter <br>
+(10) Detectar errores de javascript <br>
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint <br>
+(11) Soporte para java <br>
+https://marketplace.visualstudio.com/items?itemName=redhat.java <br>
+(12) Autocompletar path en codigo <br>
+https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete <br>
+(13) Paquete de iconos <br>
+https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons <br>
+
 
 ### **jQuery**
 (1) Animaciones web<br>
