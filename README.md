@@ -66,8 +66,22 @@ https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete <
 (13) Paquete de iconos <br>
 https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons <br>
 
-
 ### **jQuery**
 (1) Animaciones web<br>
 https://mdbootstrap.com/css/animations/
+
+### **Swift**
+(1) Alamofire - Libreria para peticiones HTTP <br>
+https://github.com/Alamofire/Alamofire <br>
+(2) AlamofireObjectMapper  ObjectMapper - Libreria para parcear json a objetos swift <br>
+https://github.com/tristanhimmelman/AlamofireObjectMapper  ( Alamofire ) <br>
+https://github.com/Hearst-DD/ObjectMapper  <br>
+(3) Listas desplegables <br>
+https://github.com/AssistoLab/DropDown <br>
+(4) SwiftValidator - Validar Campos de texto <br>
+https://github.com/SwiftValidatorCommunity/SwiftValidator
+
+
+
+
 
