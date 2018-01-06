@@ -80,7 +80,10 @@ https://github.com/Hearst-DD/ObjectMapper  <br>
 https://github.com/AssistoLab/DropDown <br>
 (4) SwiftValidator - Validar Campos de texto <br>
 https://github.com/SwiftValidatorCommunity/SwiftValidator
-
+(5) TagListView <br>
+https://github.com/ElaWorkshop/TagListView <br>
+(6) Sqlite <br>
+https://github.com/stephencelis/SQLite.swift 
 
 
 
