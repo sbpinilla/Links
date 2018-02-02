@@ -34,7 +34,9 @@ https://www.visualsvn.com/visualsvn/
 (1) Pagina para descargar imagenes de alta resolucion gratuitamente <br>
 https://www.pexels.com<br>
 (2) Pagina de plantillas para boostrap <br>
-https://startbootstrap.com
+https://startbootstrap.com <br>
+(3) Programa para extender escritorio entre pc <br>
+https://www.spacedesk.net/
 
 ### **GitHub**
 (1) Sintaxis del README <br>
