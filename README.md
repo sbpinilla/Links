@@ -69,6 +69,8 @@ https://marketplace.visualstudio.com/items?itemName=redhat.java <br>
 https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete <br>
 (13) Paquete de iconos <br>
 https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons <br>
+(14) Minificar archivos html,css,js <br>
+https://marketplace.visualstudio.com/items?itemName=HookyQR.minify
 
 ### **jQuery**
 (1) Animaciones web<br>
