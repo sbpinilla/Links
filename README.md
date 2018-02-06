@@ -22,7 +22,9 @@ https://github.com/wdullaer/MaterialDateTimePicker<br>
 (10) Libreria de  Transiciones y animaciones - Material Desing <br>
 https://github.com/lgvalle/Material-Animations <br>
 (11) Efecto reveal compatibility (Android 4.0 +) <br>
-https://github.com/ozodrukh/CircularReveal
+https://github.com/ozodrukh/CircularReveal <br>
+(12) Contador en icono de menu (Badge) <br> 
+https://github.com/juanlabrador/BadgeCounter
 
 ### **.Net**
 (1) Probar fácilmente aplicaciones web desde tabletas y teléfonos externos en su red.<br>
