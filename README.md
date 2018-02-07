@@ -37,8 +37,9 @@ https://www.visualsvn.com/visualsvn/
 https://www.pexels.com<br>
 (2) Pagina de plantillas para boostrap <br>
 https://startbootstrap.com <br>
+http://www.free-css.com/free-css-templates <br>
 (3) Programa para extender escritorio entre pc <br>
-https://www.spacedesk.net/
+https://www.spacedesk.net/ 
 
 ### **GitHub**
 (1) Sintaxis del README <br>
