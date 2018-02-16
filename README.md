@@ -24,7 +24,9 @@ https://github.com/lgvalle/Material-Animations <br>
 (11) Efecto reveal compatibility (Android 4.0 +) <br>
 https://github.com/ozodrukh/CircularReveal <br>
 (12) Contador en icono de menu (Badge) <br> 
-https://github.com/juanlabrador/BadgeCounter
+https://github.com/juanlabrador/BadgeCounter <br>
+(13) Pintar indicador en un viewPager <br>
+https://github.com/ravindu1024/android-viewpager-indicator
 
 ### **.Net**
 (1) Probar fácilmente aplicaciones web desde tabletas y teléfonos externos en su red.<br>
