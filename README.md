@@ -27,7 +27,11 @@ https://github.com/ozodrukh/CircularReveal <br>
 (12) Contador en icono de menu (Badge) <br> 
 https://github.com/juanlabrador/BadgeCounter <br>
 (13) Pintar indicador en un viewPager <br>
-https://github.com/ravindu1024/android-viewpager-indicator
+https://github.com/ravindu1024/android-viewpager-indicator <br>
+(14) Extensión de google maps -> permite dar animaciones a los movimientos de markers y agregar datos personalizados  <br>
+https://github.com/mg6maciej/android-maps-extensions <br>
+(15) Manejar la geolocalización de una manera simple  <br>
+https://github.com/delight-im/Android-SimpleLocation
 
 ### **.Net**
 (1) Probar fácilmente aplicaciones web desde tabletas y teléfonos externos en su red.<br>
