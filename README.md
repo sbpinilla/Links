@@ -101,6 +101,13 @@ https://github.com/ElaWorkshop/TagListView <br>
 (6) Sqlite <br>
 https://github.com/stephencelis/SQLite.swift 
 
+### **React Native**
+(1) Libreria de fuentes e iconos <br>
+https://github.com/oblador/react-native-vector-icons <br>
+(2) Router <br>
+https://github.com/aksonov/react-native-router-flux <br>
+(3) Lista desplegable  <br>
+https://github.com/n4kz/react-native-material-dropdown <br>
 
 
 
