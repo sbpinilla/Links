@@ -108,6 +108,12 @@ https://github.com/oblador/react-native-vector-icons <br>
 https://github.com/aksonov/react-native-router-flux <br>
 (3) Lista desplegable  <br>
 https://github.com/n4kz/react-native-material-dropdown <br>
+(4) Crypto-js (usar metodos de encriptar) <br>
+https://www.npmjs.com/package/crypto-js 
+
+
+
+
 
 
 
