@@ -80,7 +80,11 @@ https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete <
 (13) Paquete de iconos <br>
 https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons <br>
 (14) Minificar archivos html,css,js <br>
-https://marketplace.visualstudio.com/items?itemName=HookyQR.minify
+https://marketplace.visualstudio.com/items?itemName=HookyQR.minify <br>
+(15) React Native Tools y React Native Snipper <br>
+https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native <br>
+https://marketplace.visualstudio.com/items?itemName=jundat95.react-native-snippet
+
 
 ### **jQuery**
 (1) Animaciones web<br>
