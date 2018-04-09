@@ -87,8 +87,12 @@ https://marketplace.visualstudio.com/items?itemName=jundat95.react-native-snippe
 
 
 ### **jQuery**
-(1) Animaciones web<br>
+(1) Animaciones web <br>
 https://mdbootstrap.com/css/animations/
+
+### **CSS**
+(1) Animaciones CSS <br>
+https://daneden.github.io/animate.css/
 
 ### **Swift**
 (1) Alamofire - Libreria para peticiones HTTP <br>
