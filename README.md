@@ -85,10 +85,11 @@ https://marketplace.visualstudio.com/items?itemName=HookyQR.minify <br>
 https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native <br>
 https://marketplace.visualstudio.com/items?itemName=jundat95.react-native-snippet
 
-
 ### **jQuery**
 (1) Animaciones web <br>
-https://mdbootstrap.com/css/animations/
+https://mdbootstrap.com/css/animations/ <br>
+(2) Alertify  <br>
+http://alertifyjs.com
 
 ### **CSS**
 (1) Animaciones CSS <br>
