@@ -31,7 +31,9 @@ https://github.com/ravindu1024/android-viewpager-indicator <br>
 (14) Extensión de google maps -> permite dar animaciones a los movimientos de markers y agregar datos personalizados  <br>
 https://github.com/mg6maciej/android-maps-extensions <br>
 (15) Manejar la geolocalización de una manera simple  <br>
-https://github.com/delight-im/Android-SimpleLocation
+https://github.com/delight-im/Android-SimpleLocation <br>
+(16) Generar Temas de materiasl design <br>
+https://material.io/tools/color/#!/?primary.color=212121&secondary.color=3E2723&view.left=1&view.right=0
 
 ### **.Net**
 (1) Probar fácilmente aplicaciones web desde tabletas y teléfonos externos en su red.<br>
